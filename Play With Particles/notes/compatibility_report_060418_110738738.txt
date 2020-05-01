@@ -1,0 +1,5 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Font Font_Big has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Font Font_Normal has been converted to font family Arial (Bold) - Font has been regenerated, small inconsistencies may occur
+Font Font_Little has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Game speed set to 30
