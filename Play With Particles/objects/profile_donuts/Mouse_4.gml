@@ -18,4 +18,4 @@ bgColour = "Black";
 colourShift = 0;
 gravityMode = "Accurate";
 
-room_goto(1);
+room_goto(main_room);

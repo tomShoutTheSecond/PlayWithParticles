@@ -2,4 +2,4 @@
 /// @DnDVersion : 1
 /// @DnDHash : 7119A77C
 /// @DnDArgument : "code" "room_goto(1);"
-room_goto(1);
+room_goto(main_room);

@@ -5,4 +5,4 @@
 image_alpha += 0.03;
 
 if (image_alpha > 3)
-room_goto(1);
+room_goto(main_room);

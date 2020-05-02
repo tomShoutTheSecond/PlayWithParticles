@@ -19,4 +19,4 @@ gravityMode = "Accurate";
 
 particleSize = 1;
 
-room_goto(1);
+room_goto(main_room);
